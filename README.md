@@ -2,4 +2,6 @@
 
 This is a mini-project I completed under Coursera Project Network. 
 
-In the project, I have built a Neural Network model that classifies images and predicts the hand-written digits with an accuracy of <b>a<b> 
+In the project, I have built a Neural Network model that classifies images and predicts the hand-written digits with an accuracy of <b>96%.<b> 
+  
+For Data Preprocessing 
