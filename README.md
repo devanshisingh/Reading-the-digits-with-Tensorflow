@@ -8,4 +8,6 @@ In the project, I have built a Neural Network model that classifies images and p
   <li><b>Dataset Used</b> - MNIST dataset of handwritten digits.</li>
   <li><b>Data preprocessing</b> - Unrolled the array to vector and applied Data Normalisation <i>(x-m)/s</i>.</li>
   <li><b>Creating model</b> - Used ReLU activation function for the input and the hidden layers and Softmax activation function for the output layer.</li>
+  <li><b>Training the model</b> - Used 3 epochs for training the model.</li>
+  <li><b>Evaluation</b> - Getting an accuracy of 96%.</li>
 
